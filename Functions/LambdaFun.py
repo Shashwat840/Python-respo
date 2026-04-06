@@ -8,4 +8,3 @@ print(x1(10,20))
 
 x2 = lambda a,b: print(a+b)
 x2(10,200)
-
