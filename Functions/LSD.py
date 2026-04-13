@@ -1,4 +1,4 @@
-def listFun():
+def listFun(users):
     users = ["Ram","Raj","Ramesh"]
     users.extend(["Krishna","Suresh","Ramlal"])
     return users
