@@ -1,0 +1,13 @@
+def smartDiv(func):
+    def inner(x,y):
+        if y==0:
+            print("This can't be divided")
+            print("Enter valid number")
+        else:
+            func(x,y)
+
+@smartDiv
+def divFun(no1,no2):
+    print(no1/no2)
+
+divFun(200,20)
