@@ -12,7 +12,7 @@ def checkGrade(func):
 
 @checkGrade
 def grade(name,**kwargs):
-    pass
+    print("Your grade is released")
 
 grade("Shrey",maths = 90,sci = 69,phy = 80)
 grade("Jaimin")
