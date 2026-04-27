@@ -1,0 +1,105 @@
+1) get 2 from user and check which is bigger
+2) get 2 from user and check which is bigger and store big no is max variable and small in min variable
+
+max =None
+min = None
+
+
+no = 123 --> digits -->3
+
+get bank balance from user, min balance is required 10000
+
+eg:
+enter bank bal: 8000
+invalid bal 
+enter bank bal : 9000
+invalid bal 
+enter bank bal : 12000
+
+ac open
+
+enter bank bal: 8000
+invalid bal 
+enter bank bal : 9000
+invalid bal 
+enter bank bal : 2000
+invalid bal:
+try again latter..
+
+
+
+please enter amount:999
+500  * 1 = 1note
+200 * 1 = 1 note
+100 * 1 =1 note
+50 * 1 = 1 note
+20 * 2 = 2 note
+5 * 1 = 1 note
+2 * 2 = 2 note
+
+
+check string palindrome or note
+naman == naman
+abc not
+
+--------------------------------
+1) string declare you have to find no of digits in string
+eg: "java18" -->2, "gorge3" - 1
+
+
+#task 1
+check string is palidrome or not using sllicing : naman  
+
+task 2
+@username
+output: username
+
+task 3
+Hello!
+Hello
+
+list:
+
+1)get name from user and add it to list
+eg:
+enter name : ram -->
+enter name : raj -->
+enter name : exit --> break
+
+print
+
+
+check who have scored heighest run.
+
+
+pass 5 numbers in args and return sum of that numbers
+
+pass 3 arguments in args and check all argument must be int only if yes return true else false
+
+calc("+",10,20,30,40,50) #args
+
+kwrgs
+
+data(.........)
+return all keys as list ...
+
+data(name=ajay,age2=3)
+
+checkData(name="amit"city="ahm"..)
+
+values data type string if yes ---> True , False
+
+dict:
+{name:age...}
+
+output:
+Name : value
+
+
+infinite user name store:
+name ->raj -->
+name --> parth
+name -->exit
+
+
+-->run --> name store --> append..
