@@ -7,8 +7,8 @@ for player in data:
     for i in range(len(data[player])):
         file = open(f"{player}.txt","a")
         file.write(f"Match {i+1}:- {data[player][i]}\n")
-        file.close()
         print(f"Match {i+1}:- ",data[player][i])
+        file.close()
         score = score + data[player][i]
 
 print("Total:- ",score)
