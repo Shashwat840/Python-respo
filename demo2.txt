@@ -1,0 +1,2 @@
+
+<_io.TextIOWrapper name='demo2.txt' mode='a' encoding='cp1252'>
