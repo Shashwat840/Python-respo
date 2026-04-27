@@ -1,4 +1,5 @@
 file = open("demo3.txt","r")
 x = file.read() 
-print(len(x))
+y = x.split()
+print(len(y))
 file.close()
