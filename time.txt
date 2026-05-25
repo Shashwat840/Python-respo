@@ -1,4 +1,4 @@
-Function 1 called at: 18:48:25
-Function 2 called at: 18:48:26
-Function 3 called at: 18:48:27
-Function 4 called at: 18:48:28
+function1 called at: 18:57:40
+function2 called at: 18:57:41
+function3 called at: 18:57:42
+function4 called at: 18:57:43
