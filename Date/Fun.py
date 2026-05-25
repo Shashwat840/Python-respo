@@ -1,5 +1,3 @@
-# Make a program in which there are four function which are called in a gap of 1 sec 
-# then this function time will be strred in a new file named time.txt do not make it infinite loop just call the function 4 times and then stop the program
 import time
 def function1():
     print("Function 1 is called")
